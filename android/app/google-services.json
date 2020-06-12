@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "642973541960",
+    "firebase_url": "https://our-tide-279706.firebaseio.com",
+    "project_id": "our-tide-279706",
+    "storage_bucket": "our-tide-279706.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642973541960:android:46ef90bf5826a854a4da7d",
+        "android_client_info": {
+          "package_name": "com.example.lotadata_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642973541960-geo4tei6qh1f3h6hs87k4952rpamd24d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lotadata_flutter",
+            "certificate_hash": "ed0a6664c5cf8da1fa5704a8273e7aa522be1bd6"
+          }
+        },
+        {
+          "client_id": "642973541960-ql068sf55e3u991kl1c19bm8bfamm9f9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnMHqFAUs66D5hdDmdSGsdtfs7nCpg3I0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642973541960-ql068sf55e3u991kl1c19bm8bfamm9f9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
